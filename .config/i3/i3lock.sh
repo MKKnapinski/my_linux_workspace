@@ -1,0 +1,1 @@
+/home/morti/.config/i3/i3lock.sh
